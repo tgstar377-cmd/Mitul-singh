@@ -1,0 +1,6 @@
+{
+  "name": "TG Assistant",
+  "description": "Personal AI companion for Mitul with smart assistant actions and voice conversation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

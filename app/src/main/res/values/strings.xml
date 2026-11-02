@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TG Assistant</string>
+    <string name="assistant_title">TG AI Assistant</string>
+    <string name="assistant_subtitle">Personal Companion for Mitul</string>
+    <string name="greeting_english">Hello Mitul! I am your TG AI Assistant. How can I help you today?</string>
+    <string name="greeting_hindi">नमस्ते मितुल जी! मैं आपका TG AI असिस्टेंट हूँ। आज मैं आपकी क्या सहायता कर सकता हूँ?</string>
+    <string name="mic_listening">Listening to Mitul…</string>
+    <string name="mic_hint">Tap mic or type a command</string>
+    <string name="tab_assistant">Assistant</string>
+    <string name="tab_commands">Actions</string>
+    <string name="tab_notes">Notes</string>
+    <string name="tab_settings">Settings</string>
+</resources>

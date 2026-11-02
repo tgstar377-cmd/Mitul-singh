@@ -1,0 +1,16 @@
+package com.example.data
+
+import androidx.room.Entity
+import androidx.room.PrimaryKey
+
+@Entity(tableName = "chat_messages")
+data class ChatMessage(
+    @PrimaryKey(autoGenerate = true)
+    val id: Long = 0,
+    val sender: String, // "user" or "assistant"
+    val text: String,
+    val timestamp: Long = System.currentTimeMillis(),
+    val actionType: String? = null,
+    val actionData: String? = null,
+    val language: String = "en"
+)
